@@ -26,7 +26,7 @@ mvn spring-boot:run
 3. In memory db can be accessed at http://localhost:8080/h2/
 ```
 
-**3. Rest API testing**
+**4. Rest API testing**
 
 ```bash
 Postman or swagger ui both can be used
