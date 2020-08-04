@@ -35,7 +35,7 @@ Postman or swagger ui both can be used
 2. /api/view-file/{fileId} (GET)
 3. /api/int-to-binary/{intValue} (GET)
 ```
-Use Swagger ui for batter testing.
+Use Swagger ui for better testing.
 
 
 
