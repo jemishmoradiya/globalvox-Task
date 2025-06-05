@@ -1,9 +1,9 @@
 package com.globalvoxtask.task.model;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
-import javax.persistence.Lob;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.Id;
+import jakarta.persistence.Lob;
 import org.hibernate.annotations.GenericGenerator;
 import lombok.Data;
 
